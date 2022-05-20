@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>116464224674-6mg23iehop2cs9l0tlju501os89bgrj6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.116464224674-6mg23iehop2cs9l0tlju501os89bgrj6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJos8TXa-PY2m1EgJ7Ftil-XUBFp3gKqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116464224674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>berkebac.flas-chat</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-867b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-867b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116464224674:ios:652f38ba6fad88d97a0afb</string>
+</dict>
+</plist>
